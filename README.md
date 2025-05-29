@@ -7,13 +7,14 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Clean+Code+%7C+Modern+Tech+Lover;Always+Learning+%7C+Result+Oriented" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=004466&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Clean+Code+%7C+Modern+Tech+Lover;Always+Learning+%7C+Result+Oriented" alt="Typing" />
 </p>
 
-<!-- Short Intro -->
-<p align="center">
-  🔭 Building scalable full-stack apps | 💬 Passionate about clean code & fast performance | 🚀 Always learning modern tech
+
+<p align="center" style="font-size: 20px; font-weight: 600; color: #005f99;">
+  🔥 Building scalable full-stack apps | 💡 Clean, efficient code | 🚀 Always learning modern tech
 </p>
+
 
 ---
 
