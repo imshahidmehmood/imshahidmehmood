@@ -58,6 +58,51 @@ Welcome to my GitHub! I specialize in end-to-end AI/ML development with a strong
 > Built a document search system with Hugging Face + LangChain, integrated into SaaS platforms.
 
 ---
+## 🚀 Project Delivery Dashboard
+
+<table align="center">
+  <tr>
+    <td><strong>🟢 Status</strong></td>
+    <td><img src="https://img.shields.io/badge/Working_on_Project-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><strong>📦 Project</strong></td>
+    <td><img src="https://img.shields.io/badge/Entity_Recognition_Model-673AB7?style=for-the-badge&logo=mlflow&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><strong>📅 Delivery Date</strong></td>
+    <td><img src="https://img.shields.io/badge/Date:_July_15,_2025-00BCD4?style=for-the-badge&logo=calendar&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><strong>📈 Progress</strong></td>
+    <td><img src="https://img.shields.io/badge/85%25_Complete-FFD700?style=for-the-badge&logo=progress&logoColor=black"></td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Tech Stack</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/FastAPI-00ACC1?style=for-the-badge&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/LangChain-A7FFEB?style=for-the-badge&logo=chainlink&logoColor=black">
+      <img src="https://img.shields.io/badge/LLM-GPT--4-9B59B6?style=for-the-badge&logo=openai&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>📊 KPIs</strong></td>
+    <td>
+      <ul>
+        <li><strong>✅ Entities Extracted:</strong> 1234</li>
+        <li><strong>🎯 Accuracy:</strong> 92.5%</li>
+        <li><strong>⚡ Speed:</strong> 150ms per document</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🔄 Last Updated</strong></td>
+    <td><img src="https://img.shields.io/badge/Last_Updated-May_30,_2025-blue?style=for-the-badge&logo=github&logoColor=white"></td>
+  </tr>
+</table>
+
+
 
 ## 🏆 Achievements
 - 🥇 Winner of **AI Innovator Award 2023** at Neuroxes  
