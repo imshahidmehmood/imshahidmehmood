@@ -1,4 +1,14 @@
+<p align="center">
+  <strong>
+    <span style="color:#FF6B6B;font-size:26px;">
+      🚀 Working on Next-Gen AI | GPT-4 + FastAPI + LangChain
+    </span>
+  </strong>
+</p>
+
+
 # 👋 Hi, I'm Shahid Mehmood
+
 
 
 
@@ -110,6 +120,40 @@ Welcome to my GitHub! I specialize in end-to-end AI/ML development with a strong
 - 💼 Successfully led **remote cross-functional teams** in the US, UK, and MENA  
 
 ---
+## 💬 Client Testimonials
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/⭐️⭐️⭐️⭐️⭐️-5.0_Stars-FDD835?style=for-the-badge">
+      <br>
+      <em>“Absolutely impressed by the precision and speed of delivery. The Entity Recognition model exceeded our expectations — clean, fast, and highly accurate. Communication was smooth throughout!”</em>
+      <br><br>
+      <strong>— Sarah Lee</strong> <br>
+      CTO, NeoData Systems
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/⭐️⭐️⭐️⭐️⭐️-5.0_Stars-4CAF50?style=for-the-badge">
+      <br>
+      <em>“One of the best developers I’ve worked with. Not only delivered before the deadline, but also went the extra mile to optimize performance and explain the deployment details clearly.”</em>
+      <br><br>
+      <strong>— Michael Tan</strong> <br>
+      Head of AI, BrightCore Analytics
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/⭐️⭐️⭐️⭐️⭐️-5.0_Stars-2196F3?style=for-the-badge">
+      <br>
+      <em>“Highly recommended! Professional attitude, deep technical expertise, and a proactive approach made our NLP project a huge success.”</em>
+      <br><br>
+      <strong>— Ayesha Khan</strong> <br>
+      Founder, TechVerse Solutions
+    </td>
+  </tr>
+</table>
 
 ## 📫 Let’s Connect
 
